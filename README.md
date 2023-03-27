@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋</h1>
-<h3 align="center">I'm Jeramie, a fullstack developer from Indiana looking to continue to grow and learn with each coming day.</h3>
+<h3 align="center">I'm Jeramie, a Fullstack Software Engineer, from Indiana continuing to learn and grow with each coming day.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
