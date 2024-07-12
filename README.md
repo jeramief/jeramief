@@ -1,3 +1,7 @@
+[![](https://visitcount.itsvg.in/api?id=jeramief&icon=5&color=11)](https://visitcount.itsvg.in)
+
+---
+
 # 💫 About Me:
 👋 Hey there! I'm Jeramie, a code enthusiast with a passion for turning dreams into software. As a self-proclaimed pixel whisperer, I spend my days crafting pixels into meaningful experiences and my nights chasing down bugs like a digital exterminator.<br><br>🚀 My mission? To build cool stuff that makes people go "Wow!" and occasionally "How does this even work?" Armed with a keyboard and a relentless curiosity, I'm on a quest to transform lines of code into magic.<br><br>🌟 Let's connect and collaborate on some cosmic code adventures together. Drop me a line, and let's geek out over the future of tech!<br>
 
@@ -15,6 +19,3 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-[![](https://visitcount.itsvg.in/api?id=jeramief&icon=5&color=12)](https://visitcount.itsvg.in)
