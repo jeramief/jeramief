@@ -23,7 +23,7 @@
  ![NPM](https://img.shields.io/badge/npm-%23fff?style=for-the-badge&logo=npm&logoColor=%23CB3837&labelColor=%23000&color=%23CB3837)
  ![Figma](https://img.shields.io/badge/figma-%23fff?style=for-the-badge&logo=figma&logoColor=%23F24E1E&logoSize=auto&labelColor=%23000&color=%23F24E1E)
  ![Docker](https://img.shields.io/badge/docker-%23fff?style=for-the-badge&logo=docker&logoColor=%232496ED&logoSize=auto&labelColor=%23000&color=%232496ED)
- ![Postman](https://img.shields.io/badge/postman-%23fff?style=for-the-badge&logo=postman&logoColor=%23FF6C37&logoSize=auto&labelColor=%23000&color=%23FF6C37)
+ ![Postman](https://img.shields.io/badge/postman-%23fff?style=for-the-badge&logo=postman&logoColor=%23FF6C37&labelColor=%23000&color=%23FF6C37)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jeramief&theme=aura&hide_border=true&include_all_commits=false&count_private=false)<br/>
